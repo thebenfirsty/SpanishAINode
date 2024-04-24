@@ -1,0 +1,2 @@
+# Contents of openai_api_key.txt
+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
